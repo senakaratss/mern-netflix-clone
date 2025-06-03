@@ -95,7 +95,7 @@ const SearchPage = () => {
                     <img
                       src={ORIGINAL_IMG_BASE_URL + result.profile_path}
                       alt={result.name}
-                      className="mx-h-96 rounded mx-auto"
+                      className="max-h-96 rounded mx-auto"
                     />
                     <h2 className="mt-2 text-xl font-bold">{result.name}</h2>
                   </div>
