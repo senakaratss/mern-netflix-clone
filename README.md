@@ -43,9 +43,10 @@ A fully-featured Netflix clone with dynamic movie/TV show listings, user authent
 5. For production:
    
    ```bash
-  npm start
+   npm start
 
-Usage
+
+###Usage
 
 Register or log in to explore content
 
@@ -55,10 +56,10 @@ Browse through trending, top-rated, or recommended content
 
 Enjoy a Netflix-like experience with TMDB-powered data
 
-Contributing
+###Contributing
 
 Contributions are welcome! Please open an issue first to discuss what you would like to change or improve.
 
-Demo
+###Demo
 
 https://mern-netflix-clone-jhmu.onrender.com
