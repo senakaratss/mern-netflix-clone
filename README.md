@@ -33,14 +33,16 @@ A fully-featured Netflix clone with dynamic movie/TV show listings, user authent
 3. Install all dependencies and build the frontend:
    ```bash
    npm run build
+   
 4.Start the development server with:
    ```bash
   npm run dev
+
 5.For production:
    ```bash
   npm start
 
-## Usage
+Usage
 Register or log in to explore content
 
 Search for movies or series, view trailers
