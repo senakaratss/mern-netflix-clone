@@ -35,10 +35,13 @@ A fully-featured Netflix clone with dynamic movie/TV show listings, user authent
    npm run build
    
 4. Start the development server with:
+   
    ```bash
-  npm run dev
+   npm run dev
+
 
 5. For production:
+   
    ```bash
   npm start
 
